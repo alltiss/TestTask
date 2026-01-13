@@ -13,7 +13,7 @@ $\text{\ \color{lightblue}\   Технологии:\}$
 6. Sass
 7. Fsd
 8. Prettier
-8. Eslint
+8. Eslint+simpleImportSort
 ```
 $\text{\ \color{lightblue}\  Для запуска:\}$
 ```javaScript
