@@ -17,6 +17,7 @@ export const CartTotal = () => {
   const totalAmount = useAppSelector(cartModel.selectors.selectTotalAmount)
 
   const isEmptyCart = totalAmount === 0
+  
   return (
     <div className={styles.wrapper}>
       <Flex justify="space-between" padding="22px 18px 0 22px">
