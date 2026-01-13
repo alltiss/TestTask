@@ -22,7 +22,7 @@ export const CreditCard = () => {
       </header>
 
       <input
-        placeholder="**** **** **** ****"
+        placeholder="**** **** **** 4569"
         value={cardNumber}
         onChange={handleNumberChange}
         className={styles.number}
