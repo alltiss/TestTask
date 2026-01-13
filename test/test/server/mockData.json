@@ -1,0 +1,81 @@
+{
+  "headphones": {
+    "wiredHeadphones": [
+      {
+        "img": "https://ucarecdn.com/1c77a62e-898d-422e-b945-f94360ed8912/appleBYZS852I.svg",
+        "title": "Apple BYZ S8521",
+        "description": "Проводные наушники с чистым звуком и удобной посадкой для повседневного использования.",
+        "price": 2927,
+        "discountPrice": 3527,
+        "rating": 4.7,
+        "id": 1
+      },
+      {
+        "img": "https://ucarecdn.com/47fc32c5-b21e-4ec2-8c38-e8f8a0d6e140/appleEarPods.svg",
+        "title": "Apple EarPods",
+        "description": "Классические проводные наушники Apple с сбалансированным звучанием.",
+        "price": 2327,
+        "rating": 4.5,
+        "id": 2
+      },
+      {
+        "img": "https://ucarecdn.com/9bc81251-d191-4a6b-bb65-38218eb5b684/appleEarPodsinase.svg",
+        "title": "Apple EarPods",
+        "description": "Проводные наушники с эргономичной формой и хорошей шумоизоляцией.",
+        "price": 2327,
+        "rating": 4.5,
+        "id": 3
+      },
+      {
+        "img": "https://ucarecdn.com/1c77a62e-898d-422e-b945-f94360ed8912/appleBYZS852I.svg",
+        "title": "Apple BYZ S8521",
+        "description": "Надёжные проводные наушники для музыки, подкастов и звонков.",
+        "price": 2927,
+        "rating": 4.7,
+        "id": 4
+      },
+      {
+        "img": "https://ucarecdn.com/47fc32c5-b21e-4ec2-8c38-e8f8a0d6e140/appleEarPods.svg",
+        "title": "Apple EarPods",
+        "description": "Лёгкие и удобные наушники для длительного прослушивания.",
+        "price": 2327,
+        "rating": 4.5,
+        "id": 5
+      },
+      {
+        "img": "https://ucarecdn.com/9bc81251-d191-4a6b-bb65-38218eb5b684/appleEarPodsinase.svg",
+        "title": "Apple EarPods",
+        "description": "Практичные проводные наушники с качественным звучанием.",
+        "price": 2327,
+        "rating": 4.5,
+        "id": 6
+      }
+    ],
+    "wirelessHeadphones": [
+      {
+        "img": "https://ucarecdn.com/bc81a6a5-d672-468f-b65c-84cedaf94c4b/AppleEar.svg",
+        "title": "Apple AirPods",
+        "description": "Беспроводные наушники с быстрым подключением и стабильным звуком.",
+        "price": 9527,
+        "rating": 4.7,
+        "id": 7
+      },
+      {
+        "img": "https://ucarecdn.com/1111f1a5-9e03-49c0-bd7b-f3fefae5cde3/GERLAXGH04.svg",
+        "title": "GERLAX GH-04",
+        "description": "Беспроводные наушники с глубокими басами и длительным временем работы.",
+        "price": 6527,
+        "rating": 4.7,
+        "id": 8
+      },
+      {
+        "img": "https://ucarecdn.com/54631ee2-8d85-42ee-9f5b-54d1596e9d60/BOROFONEBO4.svg",
+        "title": "BOFOFONE BO4",
+        "description": "Компактные Bluetooth-наушники для активного образа жизни.",
+        "price": 7527,
+        "rating": 4.7,
+        "id": 9
+      }
+    ]
+  }
+}

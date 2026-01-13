@@ -1,0 +1,56 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  z-index: 1000;
+  background: var(--dark-m-color);
+}
+
+.overlay.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.modal {
+  position: relative;
+  background:var(--light-color);
+  border-radius: var(--border-radius20);
+  padding: 24px;
+  min-width: 320px;
+  transform: scale(0.95);
+  transition: transform 0.2s ease;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.overlay.open .modal {
+  transform: scale(1);
+}
+
+.close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: transparent;
+  border: none;
+  font-size: var(--font-size-20);
+  cursor: pointer;
+}
+
+.header {
+  margin-bottom: 16px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,1 @@
+export { formatMoneyByLanguage } from './formatMoneyByLanguage'

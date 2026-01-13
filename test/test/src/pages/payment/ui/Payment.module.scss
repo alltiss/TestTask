@@ -1,0 +1,25 @@
+.wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.payment{
+  border-radius: var(--border-radius20);
+  width: 424px;
+  height: 286px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 5px;  flex-direction: column;
+}
+
+.button{
+  background: rgb(36, 36, 38);
+  width: 365px;
+  height: 60px;
+  color: #eae3e3;
+  border-radius: var(--border-radius20);
+  font-size: 1.5rem;
+}
