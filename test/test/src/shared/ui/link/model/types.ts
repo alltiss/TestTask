@@ -6,6 +6,7 @@ type BaseTypeLink={
   className?: string
   iconClassName?: string
 }
+
 export type RouteIconLinkProps = BaseTypeLink &{
   to: string
 }
